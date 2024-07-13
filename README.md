@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushikeshgaikwad78&label=Profile%20views&color=0e75b6&style=flat" alt="rushikeshgaikwad78" /> </p>
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning : **Next JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RushikeshGaikwad78?tab=repositories](https://github.com/RushikeshGaikwad78?tab=repositories)
+- 👨‍💻 All of my projects are available at : [https://github.com/RushikeshGaikwad78?tab=repositories](https://github.com/RushikeshGaikwad78?tab=repositories)
 
-- 💬 Ask me about **MERN, C++, DSA , CP**
+- 💬 Ask me about : **MERN, C++, DSA , CP**
 
-- 📫 How to reach me **rushigaikwad7898@gmail.com**
+- 📫 How to reach me : **rushigaikwad7898@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
