@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushikeshgaikwad78&label=Profile%20views&color=0e75b6&style=flat" alt="rushikeshgaikwad78" /> </p>
 
-- 🌱 I’m currently learning : **Next JS**
+- 🌱 I’m currently doing : **DSA , Competitive Programming , Web Development**
 
 - 👨‍💻 All of my projects are available at : [https://github.com/RushikeshGaikwad78?tab=repositories](https://github.com/RushikeshGaikwad78?tab=repositories)
 
