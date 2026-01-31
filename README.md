@@ -1,31 +1,100 @@
-<h1 align="center">Hi 👋, I'm Rushikesh</h1>
-<h3 align="center">A passionate FullStack Developer , diving into DSA and a Competitive Programmer</h3>
+<h1 align="center">Hi 👋, I'm Rushikesh Gaikwad</h1>
+<h3 align="center">
+Software Engineer Intern | Full-Stack Developer | Competitive Programmer
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rushikeshgaikwad78&label=Profile%20views&color=0e75b6&style=flat" alt="rushikeshgaikwad78" /> </p>
-
-- 🌱 I’m currently doing : **DSA , Competitive Programming , Web Development**
-
-- 👨‍💻 All of my projects are available at : [https://github.com/RushikeshGaikwad78?tab=repositories](https://github.com/RushikeshGaikwad78?tab=repositories)
-
-- 💬 Ask me about : **MERN, C++, DSA , CP**
-
-- 📫 How to reach me : **rushigaikwad7898@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rushiiii07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rushiiii07" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rushikesh-gaikwad-74614b293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rushikesh-gaikwad-74614b293" height="30" width="40" /></a>
-<a href="https://instagram.com/rushhiii07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rushhiii07" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/rushigaikwad7898" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rushigaikwad7898" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/RushikeshGaikwad07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rushigaikwad7898" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/gaikwadruv2co" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="cru" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=rushikeshgaikwad78&label=Profile%20views&color=0e75b6&style=flat" alt="rushikeshgaikwad78" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rushikeshgaikwad78&show_icons=true&locale=en&layout=compact" alt="rushikeshgaikwad78" /></p>
+### 👨‍💻 About Me
+- 🎓 **BE in Computer Engineering** at Pune Institute of Computer Technology (GPA: **9.5/10**, Expected May 2026)
+- 💼 **Software Engineer Intern @ Relfor Labs** — working on production-grade AI & full-stack systems
+- 🧠 Strong foundation in **DSA, OS, DBMS, CN, OOP**
+- ⚙️ Passionate about building **scalable systems**, **clean UI**, and **high-performance applications**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushikeshgaikwad78&show_icons=true&locale=en" alt="rushikeshgaikwad78" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushikeshgaikwad78&" alt="rushikeshgaikwad78" /></p>
+### 💼 Experience
+- **Relfor Labs** — Software Engineer Intern  
+  *AI Systems, Full-Stack, Deep Learning*  
+  - Worked on production development of **SAIB AI** (audio processing & augmentation pipelines)  
+  - Designed channel-switching and volume-modulation augmentation systems  
+  - Built full-stack modules using **Next.js, NestJS**
+
+- **VoiceracxAI** — Project Intern  
+  *React, TypeScript, FastAPI, SQLAlchemy*  
+  - Built agentic-workflow style UI (inspired by n8n / OpenAI Agent Builder)  
+  - Developed scalable DB schemas with **Alembic migrations**  
+  - Implemented high-performance **FastAPI** endpoints and JSON pipelines
+
+---
+
+### 🚀 Projects
+- **FinBoard** — Customizable Finance Dashboard  
+  *Next.js, TypeScript, Tailwind, Zustand, Recharts*  
+  - Real-time finance dashboards using Alpha Vantage APIs  
+  - Drag-and-drop widgets, reusable chart/table components  
+  - Clean UI/UX with modal-based data separation
+
+- **QueryXplorer** — SQL Query Exploration Tool  
+  *React, TypeScript, CodeMirror*  
+  - Advanced SQL editor with syntax highlighting & auto-completion  
+  - High-performance CSV processing with lazy loading & virtualization  
+  - Optimized using memoization, debouncing, and caching strategies
+
+---
+
+### 🏆 Achievements
+- ⭐ **Codeforces Specialist** (Max Rating: 1521)  
+- ⭐ **4★ CodeChef** (Max Rating: 1816)  
+- ⭐ **LeetCode** (Max Rating: 1822)  
+- 🥇 **University Rank 1** (4th Sem, SGPA 10/10)  
+- 🏅 Barclays Hack-O-Hire — **Top 25 / 1400 teams**  
+- 🏅 Mastercard Code for Change — **Top 200 / 1800 students**
+
+---
+
+### 🛠️ Tech Stack
+**Languages:** C++, C, JavaScript, TypeScript  
+**Frontend:** React, Next.js, Tailwind CSS, Bootstrap  
+**Backend:** Node.js, Express, NestJS, FastAPI  
+**Databases:** PostgreSQL, SQL, MongoDB  
+**Tools:** Git, GitHub, Postman, CodeMirror  
+
+---
+
+### 📫 Connect With Me
+<p align="left">
+<a href="https://twitter.com/rushiiii07" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+</a>
+<a href="https://linkedin.com/in/rushikesh-gaikwad-74614b293" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://instagram.com/rushhiii07" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+<a href="https://codeforces.com/profile/rushigaikwad7898" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" />
+</a>
+<a href="https://leetcode.com/u/RushikeshGaikwad07/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rushikeshgaikwad78&layout=compact" />
+</p>
+
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rushikeshgaikwad78&show_icons=true" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushikeshgaikwad78" />
+</p>
