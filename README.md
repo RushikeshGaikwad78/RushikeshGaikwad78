@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rushikesh Gaikwad</h1>
+<h1 align="center">Hi, I'm Rushikesh Gaikwad 👋</h1>
 <h3 align="center">
-Software Engineer Intern | Full-Stack Developer | Competitive Programmer
+ Full-Stack Developer | Competitive Programmer
 </h3>
 
 <p align="left">
